@@ -2,7 +2,8 @@ kannel-ui
 =========
 An administration interface for Kannel - Open Source WAP and SMS gateway
 
-(Originally forked from http://github.com/acpmasquerade/kannel-ui)
+# Forked for Good
+(Original repo http://github.com/acpmasquerade/kannel-ui)
 
 
 What is Kannel ?
