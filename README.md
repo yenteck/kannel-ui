@@ -6,6 +6,14 @@ Forked for Good
 ------
 (Original repo http://github.com/acpmasquerade/kannel-ui)
 
+New Milestones
+-------
+- Django Fork
+- Feature rich based upon the Django Admin Commands
+- Read only and admin login
+- Restriced SMSc access
+- Kannel Config autogeneration
+
 
 What is Kannel ?
 ------
