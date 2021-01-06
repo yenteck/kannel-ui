@@ -4,15 +4,7 @@ An administration interface for Kannel - Open Source WAP and SMS gateway
 
 Forked for Good
 ------
-(Original repo http://github.com/acpmasquerade/kannel-ui)
-
-New Milestones
--------
-- Django Fork
-- Feature rich based upon the Django Admin Commands
-- Read only and admin login
-- Restriced SMSc access
-- Kannel Config autogeneration
+(Original repo https://github.com/sparrowsms/kannel-ui)
 
 
 What is Kannel ?
